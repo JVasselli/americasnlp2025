@@ -11,7 +11,7 @@ The AmericasNLP 2025 Shared Task on machine translation metrics for Indigenous l
 
 
 
-## Baseline
+## Baselines
 The following are the Spearman's coefficients of the baseline metrics (BLEU and ChrF++) for the development sets. 
 
 |    | Bribri    | Guarani    | Nahuatl    |
